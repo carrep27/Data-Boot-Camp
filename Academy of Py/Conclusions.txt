@@ -1,0 +1,8 @@
+Academyof Py Obervations
+
+Although more money is spent per student at District Schools, the top 5 school based on Reading and Math scores are Charter schools. 
+School Size appears to negatively affect performane once a threshold is reached (in this analysis the threshold appears to be over 3,000 but further analysis is advised). 
+Students appear to be passing reading at a higher rate and score level than math.  
+
+For further analysis, I would want try to normalize the playing field more - is there a standardized test/measurement that all students across all school types take that can be used?
+Grades can be subjective. Also, I would do anaylsis without using average of averages in final results as that can be misleading.
